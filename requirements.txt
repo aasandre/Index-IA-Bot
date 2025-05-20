@@ -1,0 +1,8 @@
+flask
+torch
+websockets
+pandas
+numpy
+scikit-learn
+ta
+joblib
